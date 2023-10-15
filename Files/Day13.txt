@@ -1,0 +1,3 @@
+Welcome to file handling This is the appended text
+
+This is the line added directly to this file.Trying to read this from main method.

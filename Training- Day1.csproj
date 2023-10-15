@@ -1,0 +1,95 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Training__Day1</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="Class2.cs" />
+    <Compile Remove="Day10_Abstraction_Contract.cs" />
+    <Compile Remove="Day10_Abstraction_Names.cs" />
+    <Compile Remove="Day10_Abstraction_Perm.cs" />
+    <Compile Remove="Day11_Exception_Ex1.cs" />
+    <Compile Remove="Day11_Exception_Ex2.cs" />
+    <Compile Remove="Day11_Ex_Rectangle.cs" />
+    <Compile Remove="Day11_InterfaceSolution.cs" />
+    <Compile Remove="Day11_ThreeNumbers.cs" />
+    <Compile Remove="Day11_TwoNumbers.cs" />
+    <Compile Remove="Day12_ArrayList.cs" />
+    <Compile Remove="Day12_Encapsulation.cs" />
+    <Compile Remove="Day12_List.cs" />
+    <Compile Remove="Day13-_Exercise2.cs" />
+    <Compile Remove="Day13_Ex4_Car.cs" />
+    <Compile Remove="Day13_Exercise1.cs" />
+    <Compile Remove="Day13_Exercise3.cs" />
+    <Compile Remove="Day13_Exercise5.cs" />
+    <Compile Remove="Day13_FileHandling.cs" />
+    <Compile Remove="Day2_21Sep23.cs" />
+    <Compile Remove="Day3_22Sep23.cs" />
+    <Compile Remove="Day4_25Sep23.cs" />
+    <Compile Remove="Day5_26Sep23.cs" />
+    <Compile Remove="Day6_27Sep23.cs" />
+    <Compile Remove="Day7_28Sep23.cs" />
+    <Compile Remove="Day8_29Sep23.cs" />
+    <Compile Remove="Day9_AddFloat.cs" />
+    <Compile Remove="Day9_AddInt.cs" />
+    <Compile Remove="Day9_Addition.cs" />
+    <Compile Remove="Day9_Hyundai.cs" />
+    <Compile Remove="Day9_Inheritance_Vehicles.cs" />
+    <Compile Remove="Day9_Kia.cs" />
+    <Compile Remove="Day9_StringExercise.cs" />
+    <Compile Remove="Exercise-04Oct23.cs" />
+    <Compile Remove="Exercise_11Oct.cs" />
+    <Compile Remove="MJ.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Class1.cs" />
+    <None Include="Class2.cs" />
+    <None Include="Day10_Abstraction_Contract.cs" />
+    <None Include="Day10_Abstraction_Names.cs" />
+    <None Include="Day10_Abstraction_Perm.cs" />
+    <None Include="Day11_Exception_Ex1.cs" />
+    <None Include="Day11_Exception_Ex2.cs" />
+    <None Include="Day11_Ex_Rectangle.cs" />
+    <None Include="Day11_InterfaceSolution.cs" />
+    <None Include="Day11_ThreeNumbers.cs" />
+    <None Include="Day11_TwoNumbers.cs" />
+    <None Include="Day12_ArrayList.cs" />
+    <None Include="Day12_Encapsulation.cs" />
+    <None Include="Day12_List.cs" />
+    <None Include="Day13-_Exercise2.cs" />
+    <None Include="Day13_Ex4_Car.cs" />
+    <None Include="Day13_Exercise1.cs" />
+    <None Include="Day13_Exercise3.cs" />
+    <None Include="Day13_Exercise5.cs" />
+    <None Include="Day13_FileHandling.cs" />
+    <None Include="Day2_21Sep23.cs" />
+    <None Include="Day3_22Sep23.cs" />
+    <None Include="Day4_25Sep23.cs" />
+    <None Include="Day5_26Sep23.cs" />
+    <None Include="Day6_27Sep23.cs" />
+    <None Include="Day7_28Sep23.cs" />
+    <None Include="Day8_29Sep23.cs" />
+    <None Include="Day9_AddFloat.cs" />
+    <None Include="Day9_AddInt.cs" />
+    <None Include="Day9_Addition.cs" />
+    <None Include="Day9_Hyundai.cs" />
+    <None Include="Day9_Inheritance_Vehicles.cs" />
+    <None Include="Day9_Kia.cs" />
+    <None Include="Day9_StringExercise.cs" />
+    <None Include="Exercise-04Oct23.cs" />
+    <None Include="Exercise_11Oct.cs" />
+    <None Include="MJ.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Files\" />
+  </ItemGroup>
+
+</Project>
